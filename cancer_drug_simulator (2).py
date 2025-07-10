@@ -1376,8 +1376,8 @@ Note: For research purposes only. Clinical validation required.
 st.markdown("---")
 st.markdown("""
 <div style="text-align: center; padding: 2rem; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 15px; margin-top: 2rem;">
-    <h3>🧬 AI Cancer Drug Simulation Platform v2.0</h3>
-    <p><strong>Developed by Muhammad Nabeel Saddique</strong></p>
+    <h3>🧬 AI Cancer Drug Simulation Platform</h3>
+    <p><strong>Developed by Muhammad Nabeel Saddique & Mahnoor Sultana</strong></p>
     <p>Medical Student | Oncology Research | Computational Biology</p>
     <p>🎯 <em>Advancing Precision Oncology through AI-Driven Drug Discovery</em></p>
     
