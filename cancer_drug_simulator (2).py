@@ -11,7 +11,7 @@ import math
 
 # Set page config
 st.set_page_config(
-    page_title="AI Cancer Drug Simulation Platform v2.0",
+    page_title="AI Cancer Drug Simulation Platform",
     page_icon="🧬",
     layout="wide",
     initial_sidebar_state="expanded"
