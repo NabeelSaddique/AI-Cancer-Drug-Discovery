@@ -1,0 +1,100 @@
+# AI Cancer Drug Simulation Platform v2.0
+# Requirements file for enhanced features
+# Developed by Muhammad Nabeel Saddique
+
+# Core Streamlit and Web Framework
+streamlit>=1.28.0
+streamlit-option-menu>=0.3.6
+
+# Data Manipulation and Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Machine Learning and Statistics
+scikit-learn>=1.3.0
+statsmodels>=0.14.0
+
+# Data Visualization
+plotly>=5.15.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Network Analysis
+networkx>=3.1
+
+# Mathematical Computing
+sympy>=1.12
+
+# File I/O and Data Processing
+openpyxl>=3.1.0
+xlsxwriter>=3.1.0
+python-dateutil>=2.8.0
+
+# Report Generation
+reportlab>=4.0.0
+fpdf2>=2.7.0
+weasyprint>=59.0
+
+# Email Integration
+smtplib-ssl>=1.0.0
+email-validator>=2.0.0
+
+# Additional Utilities
+requests>=2.31.0
+urllib3>=2.0.0
+python-dotenv>=1.0.0
+
+# Image Processing (for plots/exports)
+Pillow>=10.0.0
+kaleido>=0.2.1
+
+# Performance and Optimization
+numba>=0.57.0
+joblib>=1.3.0
+
+# Configuration and Settings
+pyyaml>=6.0
+toml>=0.10.0
+
+# Development and Testing (optional)
+pytest>=7.4.0
+black>=23.7.0
+flake8>=6.0.0
+
+# Database Support (for future enhancements)
+sqlite3
+
+# Version compatibility notes:
+# - Python 3.8+ required
+# - Streamlit 1.28+ for latest features
+# - Plotly 5.15+ for enhanced visualizations
+# - scikit-learn 1.3+ for ML capabilities
+# - NetworkX 3.1+ for network analysis
+
+# Platform-specific dependencies
+# Windows users may need: pywin32>=306
+# macOS users may need: python-tk
+# Linux users should have: python3-tk installed
+
+# Optional advanced features
+# For PDF generation: wkhtmltopdf (system dependency)
+# For email: configure SMTP settings
+# For advanced ML: tensorflow>=2.13.0 or torch>=2.0.0
+
+# Memory requirements:
+# Minimum: 4GB RAM
+# Recommended: 8GB+ RAM for large simulations
+# Storage: ~500MB for dependencies
+
+# Installation command:
+# pip install -r requirements.txt
+
+# For development environment:
+# pip install -r requirements.txt
+# pip install -e .
+
+# Docker support (if needed):
+# FROM python:3.9-slim
+# COPY requirements.txt .
+# RUN pip install -r requirements.txt
