@@ -29,12 +29,6 @@ An advanced AI-powered simulation platform for cancer drug repurposing and perso
 
 ---
 
-## 🚀 Live Demo
-
-**[Launch Application](https://ai-cancer-drug-simulator.streamlit.app)**
-
----
-
 ## 📋 Table of Contents
 
 - [Features](#-features)
@@ -447,11 +441,6 @@ textColor = "#262730"
 ```
 
 ---
-
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md).
-
 ### Development Setup
 
 ```bash
@@ -481,12 +470,6 @@ pytest
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🏆 Citation
 
 If you use this platform in your research, please cite:
@@ -509,9 +492,8 @@ If you use this platform in your research, please cite:
 Medical Student | Oncology Research | Computational Biology
 
 - **GitHub**: [@NabeelSaddique](https://github.com/NabeelSaddique)
-- **Email**: [your.email@domain.com]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **ResearchGate**: [Your ResearchGate Profile]
+- **Email**: [nabeelsaddique@gmail.com]
+- **ResearchGate**: [[Your ResearchGate Profile](https://www.researchgate.net/profile/Muhammad-Saddique-15)]
 
 ### Support
 
